@@ -21,3 +21,6 @@ This project is a chat-based inventory management system built using n8n and Age
 
 ## Use Case
 Small businesses can manage inventory using simple chat commands without manual spreadsheets.
+
+
+
